@@ -1,2 +1,2 @@
-# Amazon-clone
-Amazon clone
+# codesoft-landing-page
+ I develop this project using html and css.
